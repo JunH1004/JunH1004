@@ -1,3 +1,4 @@
+#CLI NOTE
 pwd:showsthecurrentpathinahierarchicaldirectory
 cd:change directory
 ls:list file and directory
