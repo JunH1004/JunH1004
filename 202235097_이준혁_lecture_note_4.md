@@ -1,5 +1,5 @@
 # CLI NOTE
-pwd:shows the current path inahierarchical directory
+pwd:shows the current path in a hierarchical directory
 
 cd:change directory
 
